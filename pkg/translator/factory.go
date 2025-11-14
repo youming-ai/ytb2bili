@@ -1,7 +1,7 @@
 package translator
 
 import (
-	"bili-up-backend/internal/core/types"
+	"github.com/difyz9/ytb2bili/internal/core/types"
 	"fmt"
 )
 

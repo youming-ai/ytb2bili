@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
-	"bili-up-backend/pkg/store/model"
-	"bili-up-backend/pkg/utils"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/pkg/store/model"
+	"github.com/difyz9/ytb2bili/pkg/utils"
 	"encoding/json"
 	"fmt"
 	"net/http"

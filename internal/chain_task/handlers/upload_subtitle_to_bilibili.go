@@ -1,13 +1,13 @@
 package handlers
 
 import (
-	"bili-up-backend/internal/chain_task/base"
-	"bili-up-backend/internal/chain_task/manager"
-	"bili-up-backend/internal/core"
-	"bili-up-backend/internal/core/services"
-	"bili-up-backend/internal/storage"
+	"github.com/difyz9/ytb2bili/internal/chain_task/base"
+	"github.com/difyz9/ytb2bili/internal/chain_task/manager"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core/services"
+	"github.com/difyz9/ytb2bili/internal/storage"
 	"github.com/difyz9/bilibili-go-sdk/bilibili"
-	"bili-up-backend/pkg/cos"
+	"github.com/difyz9/ytb2bili/pkg/cos"
 	"os"
 	"path/filepath"
 )

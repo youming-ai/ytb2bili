@@ -1,8 +1,8 @@
 package core
 
 import (
-	"bili-up-backend/internal/core/types"
-	"bili-up-backend/pkg/cos"
+	"github.com/difyz9/ytb2bili/internal/core/types"
+	"github.com/difyz9/ytb2bili/pkg/cos"
 	"context"
 	"fmt"
 	"io"

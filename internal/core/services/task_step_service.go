@@ -1,7 +1,7 @@
 package services
 
 import (
-	"bili-up-backend/pkg/store/model"
+	"github.com/difyz9/ytb2bili/pkg/store/model"
 	"encoding/json"
 	"fmt"
 	"log"

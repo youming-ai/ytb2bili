@@ -1,8 +1,8 @@
 package store
 
 import (
-	"bili-up-backend/internal/core/types"
-	"bili-up-backend/pkg/store/model"
+	"github.com/difyz9/ytb2bili/internal/core/types"
+	"github.com/difyz9/ytb2bili/pkg/store/model"
 	"fmt"
 	"time"
 

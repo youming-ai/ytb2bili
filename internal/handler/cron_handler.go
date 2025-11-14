@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
-	"bili-up-backend/internal/core/services"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core/services"
 	"fmt"
 	"github.com/robfig/cron/v3"
 	"gorm.io/gorm"

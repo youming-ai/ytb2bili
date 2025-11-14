@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core"
 	"fmt"
 	"github.com/gin-gonic/gin"
 )

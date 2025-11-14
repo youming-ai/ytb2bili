@@ -1,4 +1,4 @@
-module bili-up-backend
+module github.com/difyz9/ytb2bili
 
 go 1.24.0
 

@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core"
 	"github.com/difyz9/bilibili-go-sdk/bilibili"
 	"net/http"
 

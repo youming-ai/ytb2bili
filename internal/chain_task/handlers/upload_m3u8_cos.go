@@ -1,12 +1,12 @@
 package handlers
 
 import (
-	"bili-up-backend/internal/chain_task/base"
-	"bili-up-backend/internal/chain_task/manager"
-	"bili-up-backend/internal/core"
-	"bili-up-backend/internal/core/models"
-	"bili-up-backend/pkg/cos"
-	"bili-up-backend/pkg/utils"
+	"github.com/difyz9/ytb2bili/internal/chain_task/base"
+	"github.com/difyz9/ytb2bili/internal/chain_task/manager"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core/models"
+	"github.com/difyz9/ytb2bili/pkg/cos"
+	"github.com/difyz9/ytb2bili/pkg/utils"
 	"fmt"
 	"gorm.io/gorm"
 )

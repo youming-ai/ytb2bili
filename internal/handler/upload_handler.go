@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core"
 	bilibili2 "github.com/difyz9/bilibili-go-sdk/bilibili"
-	"bili-up-backend/pkg/cos"
+	"github.com/difyz9/ytb2bili/pkg/cos"
 	"encoding/json"
 	"log"
 	"net/http"

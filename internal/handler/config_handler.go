@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
-	"bili-up-backend/internal/core/types"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core/types"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"bili-up-backend/internal/core"
-	"bili-up-backend/internal/storage"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/internal/storage"
 	"github.com/difyz9/bilibili-go-sdk/bilibili"
 	"bytes"
 	"fmt"

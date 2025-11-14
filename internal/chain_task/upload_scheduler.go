@@ -1,11 +1,11 @@
 package chain_task
 
 import (
-	"bili-up-backend/internal/chain_task/handlers"
-	"bili-up-backend/internal/chain_task/manager"
-	"bili-up-backend/internal/core"
-	"bili-up-backend/internal/core/services"
-	"bili-up-backend/internal/core/types"
+	"github.com/difyz9/ytb2bili/internal/chain_task/handlers"
+	"github.com/difyz9/ytb2bili/internal/chain_task/manager"
+	"github.com/difyz9/ytb2bili/internal/core"
+	"github.com/difyz9/ytb2bili/internal/core/services"
+	"github.com/difyz9/ytb2bili/internal/core/types"
 	"fmt"
 	"path/filepath"
 	"sync"

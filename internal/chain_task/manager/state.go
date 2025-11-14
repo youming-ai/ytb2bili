@@ -1,13 +1,13 @@
 package manager
 
 import (
-	"bili-up-backend/internal/core/services"
+	"github.com/difyz9/ytb2bili/internal/core/services"
 	"os"
 	"path/filepath"
 	"sync"
 	"time"
 
-	"bili-up-backend/internal/core/models"
+	"github.com/difyz9/ytb2bili/internal/core/models"
 )
 
 // StateManager 任务状态管理器
